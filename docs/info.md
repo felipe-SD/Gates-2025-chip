@@ -10,8 +10,11 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Explain how your project works DED WED WED
-DE 
+DE DASDASDASD
+ASDASDASDASDAS
 WED WEDWEDWED 
+ASDASDASDASDASDASDA
+SSSSS
 
 ## How to test
 
