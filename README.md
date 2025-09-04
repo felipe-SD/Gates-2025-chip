@@ -22,6 +22,10 @@ The GitHub action will automatically fetch the digital netlist from Wokwi and bu
 ## How it works
 to test use 5v and rest the inputs
 
+## How to test
+dedewdedwed
+dwedwedwedwed
+
 ## Resources
 
 - [FAQ](https://tinytapeout.com/faq/)
