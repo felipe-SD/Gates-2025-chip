@@ -19,6 +19,8 @@ The GitHub action will automatically fetch the digital netlist from Wokwi and bu
 ## Enable GitHub actions to build the results page
 
 - [Enabling GitHub Pages](https://tinytapeout.com/faq/#my-github-action-is-failing-on-the-pages-part)
+## How it works
+to test use 5v and rest the inputs
 
 ## Resources
 
